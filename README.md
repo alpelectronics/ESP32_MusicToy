@@ -1,6 +1,6 @@
 # ESP32_MusicToy
 
-An ESP32 project for sound and music applications. 
+An ESP32-S2 project for sound and music applications. 
 
 You can use it for educational purposes. 
 
