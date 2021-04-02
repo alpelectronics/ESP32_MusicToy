@@ -1,0 +1,8 @@
+Record=TopLevelDocument|FileName=[00] Power Block Diagram.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=[00] Power Block Diagram.SchDoc|FileName=[01] System Block Diagram.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=[00] Power Block Diagram.SchDoc|FileName=[02] ESP32-S2 Module.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=[00] Power Block Diagram.SchDoc|FileName=[03] Codec.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=[00] Power Block Diagram.SchDoc|FileName=[04] Power & Battery.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=[00] Power Block Diagram.SchDoc|FileName=[05] NFC.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=[00] Power Block Diagram.SchDoc|FileName=[06] Gyroscope.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=[00] Power Block Diagram.SchDoc|FileName=[07] Information.SchDoc|SheetNumber= 
